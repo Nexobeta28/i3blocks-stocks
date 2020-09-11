@@ -1,6 +1,6 @@
 # constants
 SYMBOL = "TSLA"
-API_KEY = "BC57Z7PKR6DSYH8D"
+API_KEY = "your-api-key-here"
 
 # imports
 import urllib, json
